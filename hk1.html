@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bridge-it</title>
+<link rel="stylesheet" href="hk1cs.css">
+
+</head>
+
+<body>
+    <nav>
+        <a href="http://127.0.0.1:3000/hk1.html">Home</a>
+        <a href="http://127.0.0.1:3000/about.html">About Us</a>
+        <a href="#services">Services</a>
+        <a href="http://127.0.0.1:3000/contact.html">Contact Us</a>
+        <a href="">Profile</a>
+    </nav>
+    <h1>Bridge-It!</h1>
+    
+    
+
+    <div class="container">
+        
+        <button class="rectangle" onclick="openLoginPage('organiser')">Organiser</button>
+        <button class="rectangle" onclick="openLoginPage('sponsor')">Sponsor</button>
+    </div>
+
+    
+    <div style="height: 2000px;"></div>
+</div>
+</div>
+
+<div class="footer">This is the footer</div>
+
+
+<script>
+function openLoginPage(type) {
+    
+    if (type === 'organiser') {
+        window.location.href = "http://127.0.0.1:3000/loginoc.html";
+    } else if (type === 'sponsor') {
+        window.location.href = "http://127.0.0.1:3000/loginhk.html";
+    }
+}
+</script>
+
+</body>
+</html>

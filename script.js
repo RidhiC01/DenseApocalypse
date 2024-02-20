@@ -1,18 +1,12 @@
-const bar= document.getElementById('bar');
-const close= document.getElementById('close');
-const nav =document.getElementById('navbar');
-if(bar){
-    bar.addEventListener('click',()=> {
-        nav.classList.add('active');
-    })
-}
-if(close){
-    close.addEventListener('click',()=> {
-        nav.classList.remove('active');
-    })
-}
+// script.js
+document.addEventListener('DOMContentLoaded', function() {
+  const loginButton = document.getElementById('loginButton');
 
-let subMenu=document.getElementsByClassName("subMenu");
-function toggleMenu(){
-    subMenu.classList.toggle("wrap");
-}
+  // Add event listener to the login button
+  loginButton.addEventListener('click', function() {
+      // Redirect to the login page
+      window.location.href = "http://127.0.0.1:3000/hk1.html";
+  });
+});
+
+

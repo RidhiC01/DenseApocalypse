@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>User Profile</title>
+<link rel="stylesheet" href="user.css"> 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"> 
+
+
+<header><center><h1>User Profile</h1></center></header>
+
+<body>
+
+<div class="profile-container">
+  <div class="profile-header">
+    <div class="profile-avatar">
+      <img src="IMG_5133.JPG" alt="User Avatar">
+    </div>
+    <div class="profile-title">
+      
+      <p>Welcome back, Prince Gudala!</p>
+    </div>
+  </div>
+  <div class="profile-info">
+    <div class="profile-item">
+      
+      <strong>Username:</strong> <span>Prince Gudala</span>
+    </div>
+    <div class="profile-item">
+      
+      <strong>Email:</strong> <span>Prince@example.com</span>
+    </div>
+    <div class="profile-item">
+      
+      <strong>First Name:</strong> <span>Prince</span>
+    </div>
+    <div class="profile-item">
+      
+      <strong>Last Name:</strong> <span>Gudala</span>
+    </div>
+    <div class="profile-item">
+      
+      <strong>Company Name:</strong> <span>XYZ@ChennaiSDC</span>
+    </div>
+    
+  </div>
+</div>
+
+<hr>
+    <h3>Past Transactions</h3>
+    <ul class="transactions-list">
+      <li>Transaction 1 - $50</li>
+      <li>Transaction 2 - $75</li>
+      <li>Transaction 3 - $100</li>
+      
+    </ul>
+    <hr>
+    <h3>Money Spent</h3>
+    <div class="progress-bar">
+      <div class="progress" style="width: 60%;">$600 spent out of $1000</div>
+    </div>
+    <hr>
+    <h3>Spending Analysis - Domains the money has been spent on </h3>
+    <canvas id="spending-chart"></canvas>
+  </div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.7.0/chart.min.js"></script> 
+<script src="user.js"></script> 
+
+</body>
+</html>

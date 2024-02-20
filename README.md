@@ -11,7 +11,7 @@ This mutually beneficial solution enhances opportunities for companies seeking b
 - [Installation](#installation)
 - [Alternate Method](#AlternateMethod)
 - [Usage](#usage)
-- [Contributing](#contributing)
+- [Contributors](#contributing)
 
 ## Introduction
 
@@ -62,7 +62,7 @@ Visit /hkp1.html
 
 This website can be used by companies that are interested in sponsoring and events that require sponsors.
 
-## Contributing
+## Contributors
 
 The following three people have contributed to this project:
 

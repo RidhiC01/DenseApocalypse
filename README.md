@@ -62,7 +62,7 @@ Visit /hkp1.html
 
 This website can be used by companies that are interested in sponsoring and events that require sponsors.
 
-## Contributors
+## Contributors:
 
 The following three people have contributed to this project:
 

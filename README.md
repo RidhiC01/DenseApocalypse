@@ -57,3 +57,15 @@ This will start the application and make it accessible through your browser at 1
 ## Alternate Method:
 
 Visit /hkp1.html
+
+## Usage:
+
+This website can be used by companies that are interested in sponsoring and events that require sponsors.
+
+## Contributing
+
+The following three people have contributed to this project:
+
+- Ridhi Choudhary
+- Avni Jain
+- Gudala Prince

@@ -1,4 +1,6 @@
-
+#html{
+    background: linear-gradient(135deg, orange, purple);
+}
 #header{
     display: flex;
     align-items: center;

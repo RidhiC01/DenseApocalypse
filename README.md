@@ -9,7 +9,7 @@ This mutually beneficial solution enhances opportunities for companies seeking b
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Alternate Method](#Alternate Method)
+- [Alternate Method](#AlternateMethod)
 - [Usage](#usage)
 - [Contributing](#contributing)
 
@@ -54,5 +54,5 @@ Once everything is set up, you can start the application by opening the hkp1.htm
 
 This will start the application and make it accessible through your browser at 127.0.0.1:3000 or any other port that you may specified.
 
-##Alternate Method:
+##AlternateMethod:
 Visit /hkp1.html

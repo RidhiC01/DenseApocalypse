@@ -3,7 +3,7 @@ A brief description of your project goes here.
 
 ## Table of Contents
 
-- [Project Title](#project-title)
+- [Bridge-It](#project-title)
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)

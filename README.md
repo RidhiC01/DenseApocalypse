@@ -35,18 +35,21 @@ with the right sponsors for their needs.
 Here is the step by step way on how to make this project work on your system.
 To get started with this project, follow these steps:
 
-#Prerequisites
+-Prerequisites
+
 Make sure you have the following software installed on your machine:
 
 - Node.js (version 12 or higher)
 
-#Clone the Repository
+-Clone the Repository
+
 git clone https://github.com/ridhic01/denseapocalype.git
 Navigate to the Project Directory
 cd denseapocalype
 Install Dependencies
 
-#Start the Application
+-Start the Application
+
 Once everything is set up, you can start the application by opening the hkp1.html on your browser(preferably Chrome)
 
 This will start the application and make it accessible through your browser at 127.0.0.1:3000 or any other port that you may specified.

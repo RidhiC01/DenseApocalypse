@@ -54,5 +54,5 @@ Once everything is set up, you can start the application by opening the hkp1.htm
 
 This will start the application and make it accessible through your browser at 127.0.0.1:3000 or any other port that you may specified.
 
-##AlternateMethod:
+##Alternate Method:
 Visit /hkp1.html

@@ -9,9 +9,9 @@ This mutually beneficial solution enhances opportunities for companies seeking b
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
+- [Alternate Method](#Alternate Method)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 

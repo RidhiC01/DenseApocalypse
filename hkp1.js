@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Add click event listener to the sign-up button
     Home.addEventListener('click', function() {
         // Redirect to the sign-up page
-        window.location.href = 'http://127.0.0.1:3000/hk1.html'; // Replace 'signup.html' with the URL of your sign-up page
+        window.location.href = 'hk1.html'; // Replace 'signup.html' with the URL of your sign-up page
     });
 });
 
